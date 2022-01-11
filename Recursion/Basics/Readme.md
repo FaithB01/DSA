@@ -2,4 +2,5 @@
 
 ## To Run
 
-- node app.js
+1. Open the terminal/cmd
+2. Type node app.js

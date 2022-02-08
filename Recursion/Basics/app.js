@@ -65,16 +65,17 @@ console.log(palindrome('f'))
 function backwards(phrase){
   let len=phrase.length
   if(phrase.length==1){
-    return phrase
+    console.log(phrase) 
   }
   else{ 
-    new_phrase=phrase[1]
+     let new_phrase=phrase[0]
     backwards(new_phrase)
-    return (phrase[0])
+    console.log(phrase[0]) 
   }
 }
 
 console.log(backwards('faith'))
+
 
 
 

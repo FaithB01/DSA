@@ -1,0 +1,7 @@
+Array Methods in JS:
+-Pop.
+-push.
+-shift.
+-unshift.
+-splice.
+-poject
